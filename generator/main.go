@@ -106,7 +106,7 @@ func main() {
 		}
 	}
 
-	url := "http://localhost:8080/fibonacci"
+	url := "http://server:8080/fibonacci"
 
 	for {
 		value := fib.Next()
